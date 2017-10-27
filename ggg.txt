@@ -6,4 +6,9 @@ do smth again
 
 do anything else
 
+add some happy little string
+in which i replace THAT to THIS
+THAT THAT THAT THAT
+and thats all
+
 end
