@@ -1,3 +1,7 @@
+added some info here
+more info
+something more
+
 start
 okay we start
 do smth
@@ -10,5 +14,15 @@ add some happy little string
 in which i replace THAT to THIS
 THAT THAT THAT THAT
 and thats all
+
+name a feature
+that do smth
+and in cycle
+	it do great thing 
+and again and again
+print smth
+do one more thing
+make a little change here and there
+be happy
 
 end
