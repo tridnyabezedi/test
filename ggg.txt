@@ -18,6 +18,8 @@ and in cycle
 	it do great thing 
 and again and again
 print smth
+do one more thing
+make a little change here and there
 be happy
 
 end
