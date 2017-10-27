@@ -1,3 +1,7 @@
+added some info here
+more info
+something more
+
 start
 okay we start
 do smth
@@ -7,5 +11,13 @@ do smth again
 do anything else
 do smth unrelated
 do dobe dobe do
+
+name a feature
+that do smth
+and in cycle
+	it do great thing 
+and again and again
+print smth
+be happy
 
 end
